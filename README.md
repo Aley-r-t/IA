@@ -9,12 +9,12 @@ Este proyecto es un microservicio que utiliza **Whisper**, el modelo de intelige
 
 ## Requisitos Previos
 
-Antes de comenzar, asegúrate de tener instalado lo siguiente:
+Antes de comenzar, es necesario tener instalado lo siguiente:
 - **Python 3.8 o superior**
 - **ffmpeg** (necesario para la manipulación de archivos de audio)
 - **Pip** para gestionar las dependencias de Python
 
-Puedes instalar ffmpeg ejecutando:
+Para instalar ffmpeg, ejecutar:
 
 ```bash
 # En Linux (Ubuntu)
@@ -22,6 +22,7 @@ sudo apt-get install ffmpeg
 
 # En Windows (usando Chocolatey)
 choco install ffmpeg
+
 
 # 1. Clona el repositorio
 
