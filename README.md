@@ -1,4 +1,4 @@
-# Whisper Audio-to-Text Microservice
+# Whisper Audio-to-Text 
 
 Este proyecto es un microservicio que utiliza **Whisper**, el modelo de inteligencia artificial de OpenAI, para convertir audio a texto de forma rápida y precisa. Es una solución fácil de usar para transcribir grabaciones de voz a texto, lo cual puede ser útil en aplicaciones como asistentes virtuales, servicios de transcripción, y otras aplicaciones que requieran procesamiento de audio.
 
